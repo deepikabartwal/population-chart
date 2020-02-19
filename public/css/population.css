@@ -1,0 +1,28 @@
+html {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+svg {
+    border: 1px solid green;
+}
+
+.x-axis-label {
+    font-size: 20px;
+    text-anchor: middle;
+}
+
+.y-axis-label {
+    font-size: 20px;
+    text-anchor: middle;
+}
+
+.x-axis {
+    text-anchor: end;
+    font-weight: bold;
+}
+.popGrowth {
+    fill: none;
+    stroke: #004182;
+    stroke-width: 1px;
+}
